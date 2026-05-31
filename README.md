@@ -4,7 +4,6 @@
 Finally getting serious about programming so tech companies don't reject my application because of a missing semicolon. Tracking my entire comeback era right here.
 
 - I’m currently working on leveling up my data structures and algorithmic logic.
-- I’m looking to collaborate on cool, fast-paced web and mobile applications (Can we make gamessss?).
 - I’m looking for resources that can level me up, suggestions that can optimize the complexity of my career path.
 - Ask me about why my code compiled on the first try (I'm suspicious too).
 - Pronouns She/Her
